@@ -58,7 +58,7 @@ to see all build targets.
   
 ## Download
 
-You can download pre built PNG icon sets from my [Dropbox](http://goo.gl/oaoEl).
+You can download pre built PNG icon sets from my [Dropbox](https://dl.dropboxusercontent.com/u/199183/images/flags/iso-country-flags.zip).
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=koppi&url=https://github.com/koppi/iso-country-flags-svg-collection&title=&language=&tags=svg,country,flags&category=images)
 
